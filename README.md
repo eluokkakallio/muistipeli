@@ -4,4 +4,4 @@ järjestys ja painaa valot oikeassa järjestyksessä. Jos pelaaja onnistuu täss
 Projektissa tutustuttiin mikrokontrollereihin ja projektissa hyödynnettiin mikrokontrollerin neljää erilaista sisäistä lohkoa.
 Ohjelma toteutettiin Arduino Nano -levylle Arduino-alustalla.
 
-![Rakennettu järjestelmä] (hardware.png)
+![Rakennettu järjestelmä](hardware.png)
